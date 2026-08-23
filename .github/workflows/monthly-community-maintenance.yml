@@ -1,0 +1,63 @@
+name: Monthly community maintenance
+
+on:
+  schedule:
+    - cron: "10 9 1 * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: monthly-community-maintenance
+  cancel-in-progress: false
+
+jobs:
+  refresh-project-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the community repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Validate project status rules
+        run: python -m unittest discover -s tests -v
+
+      - name: Refresh public project metadata
+        id: status
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          month=$(python scripts/update_project_status.py)
+          echo "month=$month" >> "$GITHUB_OUTPUT"
+
+      - name: Create or refresh a draft pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MONTH: ${{ steps.status.outputs.month }}
+        run: |
+          branch="automation/project-status-$MONTH"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$branch"
+          git add PROJECT_STATUS.md data/project-status.json
+          git commit -m "chore: refresh community project status for $MONTH"
+          git push --force-with-lease origin "$branch"
+
+          existing=$(gh pr list --state open --head "$branch" --json number --jq '.[0].number // empty')
+          if [ -z "$existing" ]; then
+            gh pr create \
+              --draft \
+              --base "${{ github.event.repository.default_branch }}" \
+              --head "$branch" \
+              --title "社区项目状态维护：$MONTH" \
+              --body "自动核对已收录项目的公开状态、默认分支、最后推送时间和许可证识别结果。贡献署名由各项目独立维护，请审核变化后再合并。"
+          fi

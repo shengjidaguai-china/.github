@@ -1,0 +1,35 @@
+name: Validate community repository
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Validate repository structure and links
+        run: python scripts/validate_repository.py
+
+      - name: Validate JSON files
+        run: |
+          python -m json.tool config/community.json >/dev/null
+          python -m json.tool config/labels.json >/dev/null
+          python -m json.tool data/project-status.json >/dev/null
+

@@ -1,0 +1,49 @@
+name: 项目收录申请
+description: 申请将公开仓库加入升级打怪开源社群共建项目
+title: "[项目收录] "
+labels:
+  - project:intake
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: 仓库地址
+      placeholder: "https://github.com/owner/repository"
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: 项目解决什么问题
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: 许可证
+      description: 填写准确名称并链接到仓库 LICENSE
+    validations:
+      required: true
+  - type: textarea
+    id: starter_tasks
+    attributes:
+      label: 新成员可以从哪里开始
+      description: 提供至少一个 Issue、任务或明确的参与入口
+    validations:
+      required: true
+  - type: input
+    id: maintainer
+    attributes:
+      label: 当前维护者
+      placeholder: "@username"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 确认
+      options:
+        - label: 仓库和参与入口可以公开访问
+          required: true
+        - label: 项目会遵守社区行为准则、项目维护和公开更正规则
+          required: true
