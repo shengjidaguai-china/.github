@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="../COMMUNITY_PROJECTS.md">Choose a project</a> ·
-  <a href="../CONTRIBUTING.md">How to participate</a> ·
+  <a href="#join-and-build-with-us">Join the community</a> ·
   <a href="../PROJECT_STATUS.md">Project status</a> ·
   <a href="../SPONSORS.md">Sponsors and transparency</a>
 </p>
@@ -44,9 +44,7 @@
 - Respect original work, contributors, and each project's license.
 - Keep creating and learning, and help others grow with you.
 
-## Start with a real project
-
-The first six community projects are:
+## First projects open for co-building
 
 | Project | Ways to contribute |
 | --- | --- |
@@ -59,16 +57,26 @@ The first six community projects are:
 
 The [community project registry](../COMMUNITY_PROJECTS.md) is the source of truth for scope and licensing. Read the project's README, issues, and license before contributing, then begin with one verifiable problem.
 
-## How to participate
+## Join and build with us
 
-Each project owns its contribution rules, attribution, and contributor page.
+Current community-wide initiatives include:
 
-1. Choose a project that genuinely interests you.
-2. Read that project's README, issues, contribution guide, and license.
-3. Confirm a real problem, then contribute code, tests, design, product work, or another deliverable that can be put into practice.
-4. The project's maintainers review the work, decide whether to adopt it, and manage attribution.
+- co-creating a free AI course series;
+- livestreamed Vibecoding project sharing;
+- organizing hackathons;
+- maintaining community projects.
 
-The community prioritizes project work that requires real judgment, validation, and delivery. See [how to participate](../CONTRIBUTING.md) for details.
+<p align="center">
+  <img src="../assets/wechat-group-2026-08-30.jpg" width="420" alt="WeChat QR code for the community, valid through 2026-08-30">
+</p>
+
+The current QR code is valid through **August 30, 2026**. If it has expired, contact the administrator:
+
+- Email: 247133278@qq.com
+- WeChat: loonges
+- QQ: 247133278
+
+See [support and contact](../SUPPORT.md) for details.
 
 ## Transparent community fund
 
@@ -89,20 +97,6 @@ Community funds are primarily used to expand the community's reach through:
 Project status is checked monthly, including default branches, last-push dates, and detected licenses.
 
 See the [sponsorship policy](../SPONSORS.md) and [governance rules](../GOVERNANCE.md).
-
-## Join the WeChat group
-
-<p align="center">
-  <img src="../assets/wechat-group-2026-08-30.jpg" width="420" alt="WeChat QR code for the community, valid through 2026-08-30">
-</p>
-
-The current QR code is valid through **August 30, 2026**. If it has expired, contact the administrator:
-
-- Email: 247133278@qq.com
-- WeChat: loonges
-- QQ: 247133278
-
-You can also begin with a public issue in one of the community projects. See [support and contact](../SUPPORT.md) for details.
 
 ## One last thought
 
