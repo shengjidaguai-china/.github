@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-08-23 -->
+<!-- README_SYNC: source=working-tree; updated=2026-08-24 -->
 
 <p align="center">
   <a href="./README.md">简体中文</a> · English
@@ -46,16 +46,22 @@
 
 ## First projects open for co-building
 
-| Project | Ways to contribute |
-| --- | --- |
-| [BossHunter](https://github.com/powerycy/BossHunter) | Job-search agents, automation, testing, and safety boundaries |
-| [personal-homepage-skill](https://github.com/powerycy/personal-homepage-skill) | Personal sites, HTML slide decks, templates, and quality checks |
-| [goutoujunshi](https://github.com/powerycy/goutoujunshi) | AI relationship support, knowledge sources, tests, and safety boundaries |
-| [qiangshou-skill](https://github.com/powerycy/qiangshou-skill) | Fact checking, technical writing, READMEs, and content workflows |
-| [multi-model-review](https://github.com/powerycy/multi-model-review) | Multi-model review, judge voting, and reliability checks |
-| [multi-style-image-generator](https://github.com/powerycy/multi-style-image-generator) | Multi-style image generation and 360° spatial previews |
+| Project | Ways to contribute | Maintainer | Term | Status |
+| --- | --- | --- | --- | --- |
+| [BossHunter](https://github.com/powerycy/BossHunter) | Job-search agents, automation, testing, and safety boundaries |  |  | [Recruiting](#bosshunter-project-maintainer-recruitment) |
+| [personal-homepage-skill](https://github.com/powerycy/personal-homepage-skill) | Personal sites, HTML slide decks, templates, and quality checks |  |  |  |
+| [goutoujunshi](https://github.com/powerycy/goutoujunshi) | AI relationship support, knowledge sources, tests, and safety boundaries |  |  |  |
+| [qiangshou-skill](https://github.com/powerycy/qiangshou-skill) | Fact checking, technical writing, READMEs, and content workflows |  |  |  |
+| [multi-model-review](https://github.com/powerycy/multi-model-review) | Multi-model review, judge voting, and reliability checks |  |  |  |
+| [multi-style-image-generator](https://github.com/powerycy/multi-style-image-generator) | Multi-style image generation and 360° spatial previews |  |  |  |
 
 The [community project registry](./COMMUNITY_PROJECTS.md) is the source of truth for scope and licensing. Read the project's README, issues, and license before contributing, then begin with one verifiable problem.
+
+### BossHunter project maintainer recruitment
+
+BossHunter is recruiting a project maintainer. Individuals and teams are both welcome to apply.
+
+Send your résumé to **247133278@qq.com** and explain how you or your team are equipped to maintain the project.
 
 ## Join and build with us
 

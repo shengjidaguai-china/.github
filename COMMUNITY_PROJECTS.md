@@ -2,14 +2,14 @@
 
 本文件是社群收录项目的范围清单。只有列入 [`config/community.json`](./config/community.json) 的仓库才会被每月任务核对状态；未来收录或移除项目必须通过公开 PR 修改本清单与配置。
 
-| 项目 | 定位 | 默认分支 | 当前许可证口径 |
-| --- | --- | --- | --- |
-| [powerycy/BossHunter](https://github.com/powerycy/BossHunter) | AI 求职 Agent 与自动化流程 | `main` | 自定义非商业许可证；商用需事先书面授权 |
-| [powerycy/personal-homepage-skill](https://github.com/powerycy/personal-homepage-skill) | 个人主页与 HTML PPT 生成 Skill | `main` | 自定义非商业许可证；商用需事先书面授权 |
-| [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | AI 恋爱军师与关系支持 Skill | `main` | MIT License |
-| [powerycy/qiangshou-skill](https://github.com/powerycy/qiangshou-skill) | 事实核验与技术内容写作 Skill | `main` | PolyForm Noncommercial License 1.0.0 |
-| [powerycy/multi-model-review](https://github.com/powerycy/multi-model-review) | 多模型评审与裁判投票 Skill | `main` | PolyForm Noncommercial License 1.0.0 |
-| [powerycy/multi-style-image-generator](https://github.com/powerycy/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 Skill | `main` | PolyForm Noncommercial License 1.0.0 |
+| 项目 | 定位 | 维护者 | 任期 | 状态 | 默认分支 | 当前许可证口径 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [powerycy/BossHunter](https://github.com/powerycy/BossHunter) | AI 求职 Agent 与自动化流程 |  |  | [招募中](./README.md#bosshunter-项目维护者招募) | `main` | 自定义非商业许可证；商用需事先书面授权 |
+| [powerycy/personal-homepage-skill](https://github.com/powerycy/personal-homepage-skill) | 个人主页与 HTML PPT 生成 Skill |  |  |  | `main` | 自定义非商业许可证；商用需事先书面授权 |
+| [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | AI 恋爱军师与关系支持 Skill |  |  |  | `main` | MIT License |
+| [powerycy/qiangshou-skill](https://github.com/powerycy/qiangshou-skill) | 事实核验与技术内容写作 Skill |  |  |  | `main` | PolyForm Noncommercial License 1.0.0 |
+| [powerycy/multi-model-review](https://github.com/powerycy/multi-model-review) | 多模型评审与裁判投票 Skill |  |  |  | `main` | PolyForm Noncommercial License 1.0.0 |
+| [powerycy/multi-style-image-generator](https://github.com/powerycy/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 Skill |  |  |  | `main` | PolyForm Noncommercial License 1.0.0 |
 
 ## 商业化说明
 
