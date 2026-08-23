@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-08-23 -->
+<!-- README_SYNC: source=working-tree; updated=2026-08-24 -->
 
 <p align="center">
   简体中文 · <a href="./README_EN.md">English</a>
@@ -46,16 +46,22 @@
 
 ## 首批开放共建项目
 
-| 项目 | 你可以参与什么 |
-| --- | --- |
-| [BossHunter](https://github.com/powerycy/BossHunter) | 求职 Agent、自动化流程、测试与安全边界 |
-| [personal-homepage-skill](https://github.com/powerycy/personal-homepage-skill) | 个人主页、HTML PPT、模板与质量检查 |
-| [goutoujunshi](https://github.com/powerycy/goutoujunshi) | AI 关系支持、知识库、测试与安全边界 |
-| [qiangshou-skill](https://github.com/powerycy/qiangshou-skill) | 事实核验、技术写作、README 与内容工作流 |
-| [multi-model-review](https://github.com/powerycy/multi-model-review) | 多模型评审、裁判投票与可靠性验证 |
-| [multi-style-image-generator](https://github.com/powerycy/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 |
+| 项目 | 你可以参与什么 | 维护者 | 任期 | 状态 |
+| --- | --- | --- | --- | --- |
+| [BossHunter](https://github.com/powerycy/BossHunter) | 求职 Agent、自动化流程、测试与安全边界 |  |  | [招募中](#bosshunter-项目维护者招募) |
+| [personal-homepage-skill](https://github.com/powerycy/personal-homepage-skill) | 个人主页、HTML PPT、模板与质量检查 |  |  |  |
+| [goutoujunshi](https://github.com/powerycy/goutoujunshi) | AI 关系支持、知识库、测试与安全边界 |  |  |  |
+| [qiangshou-skill](https://github.com/powerycy/qiangshou-skill) | 事实核验、技术写作、README 与内容工作流 |  |  |  |
+| [multi-model-review](https://github.com/powerycy/multi-model-review) | 多模型评审、裁判投票与可靠性验证 |  |  |  |
+| [multi-style-image-generator](https://github.com/powerycy/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 |  |  |  |
 
 完整范围和许可证以[当前共建项目清单](../COMMUNITY_PROJECTS.md)为准。选择一个你真正感兴趣的项目，先看 README、Issue 和许可证，再从一个可以验证的小问题开始。
+
+### BossHunter 项目维护者招募
+
+BossHunter 正在招募项目维护者，个人或团队均可申请。
+
+请将简历发送至 **247133278@qq.com**，并说明你本人或你的团队具备维护此项目的能力。
 
 ## 加入社群，一起共建
 
