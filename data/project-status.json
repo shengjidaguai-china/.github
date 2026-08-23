@@ -1,0 +1,65 @@
+{
+  "checked_at": "2026-08-23T08:21:30.328284Z",
+  "projects": [
+    {
+      "repository": "powerycy/BossHunter",
+      "html_url": "https://github.com/powerycy/BossHunter",
+      "state": "公开",
+      "default_branch": "main",
+      "configured_default_branch": "main",
+      "pushed_at": "2026-08-23T07:11:42Z",
+      "updated_at": "2026-08-23T07:18:37Z",
+      "license": "自定义／未识别"
+    },
+    {
+      "repository": "powerycy/personal-homepage-skill",
+      "html_url": "https://github.com/powerycy/personal-homepage-skill",
+      "state": "公开",
+      "default_branch": "main",
+      "configured_default_branch": "main",
+      "pushed_at": "2026-08-17T07:59:03Z",
+      "updated_at": "2026-08-23T03:19:01Z",
+      "license": "自定义／未识别"
+    },
+    {
+      "repository": "powerycy/goutoujunshi",
+      "html_url": "https://github.com/powerycy/goutoujunshi",
+      "state": "公开",
+      "default_branch": "main",
+      "configured_default_branch": "main",
+      "pushed_at": "2026-08-17T07:00:07Z",
+      "updated_at": "2026-08-23T08:20:31Z",
+      "license": "MIT"
+    },
+    {
+      "repository": "powerycy/qiangshou-skill",
+      "html_url": "https://github.com/powerycy/qiangshou-skill",
+      "state": "公开",
+      "default_branch": "main",
+      "configured_default_branch": "main",
+      "pushed_at": "2026-08-13T10:54:58Z",
+      "updated_at": "2026-08-14T12:05:20Z",
+      "license": "自定义／未识别"
+    },
+    {
+      "repository": "powerycy/multi-model-review",
+      "html_url": "https://github.com/powerycy/multi-model-review",
+      "state": "公开",
+      "default_branch": "main",
+      "configured_default_branch": "main",
+      "pushed_at": "2026-08-13T10:54:52Z",
+      "updated_at": "2026-08-19T14:47:30Z",
+      "license": "自定义／未识别"
+    },
+    {
+      "repository": "powerycy/multi-style-image-generator",
+      "html_url": "https://github.com/powerycy/multi-style-image-generator",
+      "state": "公开",
+      "default_branch": "main",
+      "configured_default_branch": "main",
+      "pushed_at": "2026-08-06T07:55:25Z",
+      "updated_at": "2026-08-18T06:18:42Z",
+      "license": "自定义／未识别"
+    }
+  ]
+}

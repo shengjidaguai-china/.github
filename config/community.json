@@ -1,0 +1,32 @@
+{
+  "community_name": "升级打怪开源社群",
+  "owner": "powerycy",
+  "timezone": "Asia/Shanghai",
+  "monthly_schedule": "10 9 1 * *",
+  "projects": [
+    {
+      "repository": "powerycy/BossHunter",
+      "default_branch": "main"
+    },
+    {
+      "repository": "powerycy/personal-homepage-skill",
+      "default_branch": "main"
+    },
+    {
+      "repository": "powerycy/goutoujunshi",
+      "default_branch": "main"
+    },
+    {
+      "repository": "powerycy/qiangshou-skill",
+      "default_branch": "main"
+    },
+    {
+      "repository": "powerycy/multi-model-review",
+      "default_branch": "main"
+    },
+    {
+      "repository": "powerycy/multi-style-image-generator",
+      "default_branch": "main"
+    }
+  ]
+}
