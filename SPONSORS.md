@@ -32,7 +32,7 @@
 
 ## 资金透明账本
 
-[查看升级打怪开源社群资金透明账本](https://wcng30x0nvef.feishu.cn/base/KP9UbfeesaatN0sKe7Tc9JDDnFc?table=tblGvMJoDoqu5Xeb&view=vewnhIL5Fp)
+[查看升级打怪开源社区资金透明账本](https://wcng30x0nvef.feishu.cn/base/KP9UbfeesaatN0sKe7Tc9JDDnFc?table=tblGvMJoDoqu5Xeb&view=vewnhIL5Fp)
 
 账本展示赞助总榜、本月赞助榜、收入、资源赞助、支出、余额、资金用途和更新时间，由主理人持续维护。
 

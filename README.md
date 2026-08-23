@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/logo.png" width="180" alt="升级打怪开源社群 Logo">
+  <img src="./assets/logo.png" width="180" alt="升级打怪开源社区 Logo">
 </p>
 
-<h1 align="center">升级打怪开源社群</h1>
+<h1 align="center">升级打怪开源社区</h1>
 
 <p align="center">
   降低开源参与门槛，让更多普通人通过真实项目获得能力、作品和机会。
@@ -67,7 +67,7 @@
 - 社区项目维护。
 
 <p align="center">
-  <img src="./assets/wechat-group-2026-08-30.jpg" width="420" alt="升级打怪开源社群微信群二维码，有效至 2026-08-30">
+  <img src="./assets/wechat-group-2026-08-30.jpg" width="420" alt="升级打怪开源社区微信群二维码，有效至 2026-08-30">
 </p>
 
 当前二维码有效至 **2026 年 8 月 30 日**。二维码失效后，请联系管理员：
@@ -80,7 +80,7 @@
 
 ## 资金透明账本
 
-[查看升级打怪开源社群资金透明账本](https://wcng30x0nvef.feishu.cn/base/KP9UbfeesaatN0sKe7Tc9JDDnFc?table=tblGvMJoDoqu5Xeb&view=vewnhIL5Fp)
+[查看升级打怪开源社区资金透明账本](https://wcng30x0nvef.feishu.cn/base/KP9UbfeesaatN0sKe7Tc9JDDnFc?table=tblGvMJoDoqu5Xeb&view=vewnhIL5Fp)
 
 账本公开赞助金额、赞助榜、收入、支出、余额、资金用途和更新时间。赞助者可以选择实名、昵称或匿名。
 
@@ -108,4 +108,4 @@ AI 正在让知识获取的成本越来越低，很多曾经稀缺的知识和�
 
 未来真正拉开人与人差距的，会越来越多地来自你的认知、判断力、创造力、影响力，以及把事情真正做出来的能力。
 
-欢迎大家来到升级打怪开源社群，一起学习，一起创造，一起共建，一起升级打怪，共同进步。
+欢迎大家来到升级打怪开源社区，一起学习，一起创造，一起共建，一起升级打怪，共同进步。
