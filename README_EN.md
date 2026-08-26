@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-08-24 -->
+<!-- README_SYNC: source=working-tree; updated=2026-08-26 -->
 
 <p align="center">
   <a href="./README.md">简体中文</a> · English
@@ -7,7 +7,7 @@
 <h1 align="center">Level Up Open Source Community</h1>
 
 <p align="center">
-  Making open-source participation more accessible, so more people can build skills, public work, and opportunities through real projects.
+  Learn, build together, and create public work through real open-source projects. Beginners in development, design, product, and AI are all welcome.
 </p>
 
 <p align="center">
@@ -15,11 +15,45 @@
 </p>
 
 <p align="center">
-  <a href="./COMMUNITY_PROJECTS.md">Choose a project</a> ·
-  <a href="#join-and-build-with-us">Join the community</a> ·
-  <a href="./PROJECT_STATUS.md">Project status</a> ·
-  <a href="./SPONSORS.md">Sponsors and transparency</a>
+  ⭐ <a href="https://github.com/shengjidaguai-china"><strong>Follow us from the top-right corner</strong></a> for new projects and community activities.
 </p>
+
+<p align="center">
+  <a href="https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd">Community library</a> ·
+  <a href="#-current-activities">Current activities</a> ·
+  <a href="#-first-projects-open-for-co-building">Open projects</a> ·
+  <a href="#join-and-build-with-us">Join the community</a>
+</p>
+
+## 🧭 Start here
+
+| I want to… | Start here |
+| --- | --- |
+| Find beginner-friendly tutorials and resources | 📚 [Open the community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) |
+| Join guided study or help create a tutorial | 🔥 [See current activities](#-current-activities) |
+| Contribute to a real open-source project | 🛠️ [Choose a co-building project](#-first-projects-open-for-co-building) |
+| Submit code, design, product, or content work | 🤝 [Read the contribution guide](./CONTRIBUTING.md) |
+
+## 📚 Community library
+
+[Open the Shengji Daguai community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) for learning resources, beginner tutorials, and projects open for contribution.
+
+## 🔥 Current activities
+
+### Guided learning for beginners
+
+1. **Beginner tutorial co-creation:** applications close on **August 29, 2026**.
+2. **Guided study group:** in preparation.
+
+Collected beginner tutorials: [view the tutorial list](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf)
+
+### Open-source co-building
+
+Choose a project from the [community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd), read its README and contribution notes, then start with one verifiable problem and submit a pull request.
+
+### BossHunter maintainer recruitment
+
+Individuals and teams may apply. Send your résumé to **247133278@qq.com** and describe the project-maintenance capabilities you or your team can bring.
 
 ## What you can gain
 
@@ -40,24 +74,24 @@
 - Respect original work, contributors, and each project's license.
 - Keep creating and learning, and help others grow with you.
 
-## First projects open for co-building
+## 🛠️ First projects open for co-building
 
-| Project | Ways to contribute | Maintainer | Term | Status |
-| --- | --- | --- | --- | --- |
-| [BossHunter](https://github.com/shengjidaguai-china/BossHunter) | Job-search agents, automation, testing, and safety boundaries |  |  | [Recruiting](#bosshunter-project-maintainer-recruitment) |
-| [personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | Personal sites, HTML slide decks, templates, and quality checks |  |  |  |
-| [goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | AI relationship support, knowledge sources, tests, and safety boundaries |  |  |  |
-| [qiangshou-skill](https://github.com/shengjidaguai-china/qiangshou-skill) | Fact checking, technical writing, READMEs, and content workflows |  |  |  |
-| [multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | Multi-model review, judge voting, and reliability checks |  |  |  |
-| [multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | Multi-style image generation and 360° spatial previews |  |  |  |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/BossHunter"><img src="https://gh-card.dev/repos/shengjidaguai-china/BossHunter.svg" alt="BossHunter repository card"></a></td>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/personal-homepage-skill"><img src="https://gh-card.dev/repos/shengjidaguai-china/personal-homepage-skill.svg" alt="personal-homepage-skill repository card"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/goutoujunshi"><img src="https://gh-card.dev/repos/shengjidaguai-china/goutoujunshi.svg" alt="goutoujunshi repository card"></a></td>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/qiangshou-skill"><img src="https://gh-card.dev/repos/shengjidaguai-china/qiangshou-skill.svg" alt="qiangshou-skill repository card"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-model-review"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-model-review.svg" alt="multi-model-review repository card"></a></td>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-style-image-generator"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-style-image-generator.svg" alt="multi-style-image-generator repository card"></a></td>
+  </tr>
+</table>
 
-The [community project registry](./COMMUNITY_PROJECTS.md) is the source of truth for scope and licensing. Read the project's README, issues, and license before contributing, then begin with one verifiable problem.
-
-### BossHunter project maintainer recruitment
-
-BossHunter is recruiting a project maintainer. Individuals and teams are both welcome to apply.
-
-Send your résumé to **247133278@qq.com** and explain how you or your team are equipped to maintain the project.
+The [community project registry](./COMMUNITY_PROJECTS.md) is the source of truth for scope, contribution paths, and licensing. See the [public status page](./PROJECT_STATUS.md) for current project status.
 
 ## Join and build with us
 

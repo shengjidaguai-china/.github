@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-08-24 -->
+<!-- README_SYNC: source=working-tree; updated=2026-08-26 -->
 
 <p align="center">
   简体中文 · <a href="./README_EN.md">English</a>
@@ -7,7 +7,7 @@
 <h1 align="center">升级打怪开源社区</h1>
 
 <p align="center">
-  降低开源参与门槛，让更多普通人通过真实项目获得能力、作品和机会。
+  通过真实开源项目学习、共建并积累作品。开发、设计、产品和 AI 新手都可以参加。
 </p>
 
 <p align="center">
@@ -15,11 +15,45 @@
 </p>
 
 <p align="center">
-  <a href="./COMMUNITY_PROJECTS.md">选择一个项目</a> ·
-  <a href="#加入社群一起共建">加入社群</a> ·
-  <a href="./PROJECT_STATUS.md">项目状态</a> ·
-  <a href="./SPONSORS.md">赞助与资金透明</a>
+  ⭐ <a href="https://github.com/shengjidaguai-china"><strong>点击右上角 Follow 关注我们</strong></a>，及时获取新项目与共建活动。
 </p>
+
+<p align="center">
+  <a href="https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd">社区资料库</a> ·
+  <a href="#-近期活动">近期活动</a> ·
+  <a href="#-首批开放共建项目">开放项目</a> ·
+  <a href="#加入社群一起共建">加入社群</a>
+</p>
+
+## 🧭 从这里开始
+
+| 我想…… | 从这里开始 |
+| --- | --- |
+| 找适合新手的教程和资料 | 📚 [打开社区资料库](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) |
+| 参加督促共学或教程共创 | 🔥 [查看近期活动](#-近期活动) |
+| 参与真实开源项目 | 🛠️ [选择首批共建项目](#-首批开放共建项目) |
+| 提交代码、设计、产品或内容贡献 | 🤝 [阅读共建指南](./CONTRIBUTING.md) |
+
+## 📚 社区资料库
+
+[进入升级打怪社区资料库](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd)，查看学习资料、新手教程和可参与的共建项目。
+
+## 🔥 近期活动
+
+### 新手督促共学
+
+1. **新手教程共创招募**：截止至 **2026 年 8 月 29 日**。
+2. **督促共学群活动**：筹备中。
+
+已收录的新手教程：[查看教程清单](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf)
+
+### 开源项目共建
+
+从[社区资料库](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd)中选择感兴趣的项目，阅读项目 README 和贡献说明，从一个可以验证的小问题开始并提交 PR。
+
+### BossHunter 维护者招募
+
+个人或团队均可申请。请将简历发送至 **247133278@qq.com**，并说明你本人或团队具备的项目维护能力。
 
 ## 你能得到什么
 
@@ -40,24 +74,24 @@
 - 尊重原创、贡献者和开源协议。
 - 保持创造，持续学习，也愿意带着别人一起成长。
 
-## 首批开放共建项目
+## 🛠️ 首批开放共建项目
 
-| 项目 | 你可以参与什么 | 维护者 | 任期 | 状态 |
-| --- | --- | --- | --- | --- |
-| [BossHunter](https://github.com/shengjidaguai-china/BossHunter) | 求职 Agent、自动化流程、测试与安全边界 |  |  | [招募中](#bosshunter-项目维护者招募) |
-| [personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | 个人主页、HTML PPT、模板与质量检查 |  |  |  |
-| [goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | AI 关系支持、知识库、测试与安全边界 |  |  |  |
-| [qiangshou-skill](https://github.com/shengjidaguai-china/qiangshou-skill) | 事实核验、技术写作、README 与内容工作流 |  |  |  |
-| [multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | 多模型评审、裁判投票与可靠性验证 |  |  |  |
-| [multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 |  |  |  |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/BossHunter"><img src="https://gh-card.dev/repos/shengjidaguai-china/BossHunter.svg" alt="BossHunter 项目卡片"></a></td>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/personal-homepage-skill"><img src="https://gh-card.dev/repos/shengjidaguai-china/personal-homepage-skill.svg" alt="personal-homepage-skill 项目卡片"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/goutoujunshi"><img src="https://gh-card.dev/repos/shengjidaguai-china/goutoujunshi.svg" alt="goutoujunshi 项目卡片"></a></td>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/qiangshou-skill"><img src="https://gh-card.dev/repos/shengjidaguai-china/qiangshou-skill.svg" alt="qiangshou-skill 项目卡片"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-model-review"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-model-review.svg" alt="multi-model-review 项目卡片"></a></td>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-style-image-generator"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-style-image-generator.svg" alt="multi-style-image-generator 项目卡片"></a></td>
+  </tr>
+</table>
 
-完整范围和许可证以[当前共建项目清单](./COMMUNITY_PROJECTS.md)为准。选择一个你真正感兴趣的项目，先看 README、Issue 和许可证，再从一个可以验证的小问题开始。
-
-### BossHunter 项目维护者招募
-
-BossHunter 正在招募项目维护者，个人或团队均可申请。
-
-请将简历发送至 **247133278@qq.com**，并说明你本人或你的团队具备维护此项目的能力。
+完整范围、参与方式和许可证以[当前共建项目清单](./COMMUNITY_PROJECTS.md)为准。项目状态见[公开状态页](./PROJECT_STATUS.md)。
 
 ## 加入社群，一起共建
 
