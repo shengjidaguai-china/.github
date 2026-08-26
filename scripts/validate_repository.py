@@ -11,12 +11,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 EXPECTED_PROJECTS = {
-    "powerycy/BossHunter",
-    "powerycy/personal-homepage-skill",
-    "powerycy/goutoujunshi",
-    "powerycy/qiangshou-skill",
-    "powerycy/multi-model-review",
-    "powerycy/multi-style-image-generator",
+    "shengjidaguai-china/BossHunter",
+    "shengjidaguai-china/personal-homepage-skill",
+    "shengjidaguai-china/goutoujunshi",
+    "shengjidaguai-china/qiangshou-skill",
+    "shengjidaguai-china/multi-model-review",
+    "shengjidaguai-china/multi-style-image-generator",
 }
 LEDGER_URL = (
     "https://wcng30x0nvef.feishu.cn/base/"
@@ -109,4 +109,3 @@ if __name__ == "__main__":
     except (AssertionError, json.JSONDecodeError) as exc:
         print(f"Community repository validation: FAIL: {exc}", file=sys.stderr)
         sys.exit(1)
-
