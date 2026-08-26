@@ -4,10 +4,6 @@
   <a href="./README.md">简体中文</a> · English
 </p>
 
-<p align="center">
-  <img src="./assets/logo.png" width="180" alt="Level Up Open Source Community logo">
-</p>
-
 <h1 align="center">Level Up Open Source Community</h1>
 
 <p align="center">
@@ -48,12 +44,12 @@
 
 | Project | Ways to contribute | Maintainer | Term | Status |
 | --- | --- | --- | --- | --- |
-| [BossHunter](https://github.com/powerycy/BossHunter) | Job-search agents, automation, testing, and safety boundaries |  |  | [Recruiting](#bosshunter-project-maintainer-recruitment) |
-| [personal-homepage-skill](https://github.com/powerycy/personal-homepage-skill) | Personal sites, HTML slide decks, templates, and quality checks |  |  |  |
-| [goutoujunshi](https://github.com/powerycy/goutoujunshi) | AI relationship support, knowledge sources, tests, and safety boundaries |  |  |  |
-| [qiangshou-skill](https://github.com/powerycy/qiangshou-skill) | Fact checking, technical writing, READMEs, and content workflows |  |  |  |
-| [multi-model-review](https://github.com/powerycy/multi-model-review) | Multi-model review, judge voting, and reliability checks |  |  |  |
-| [multi-style-image-generator](https://github.com/powerycy/multi-style-image-generator) | Multi-style image generation and 360° spatial previews |  |  |  |
+| [BossHunter](https://github.com/shengjidaguai-china/BossHunter) | Job-search agents, automation, testing, and safety boundaries |  |  | [Recruiting](#bosshunter-project-maintainer-recruitment) |
+| [personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | Personal sites, HTML slide decks, templates, and quality checks |  |  |  |
+| [goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | AI relationship support, knowledge sources, tests, and safety boundaries |  |  |  |
+| [qiangshou-skill](https://github.com/shengjidaguai-china/qiangshou-skill) | Fact checking, technical writing, READMEs, and content workflows |  |  |  |
+| [multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | Multi-model review, judge voting, and reliability checks |  |  |  |
+| [multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | Multi-style image generation and 360° spatial previews |  |  |  |
 
 The [community project registry](./COMMUNITY_PROJECTS.md) is the source of truth for scope and licensing. Read the project's README, issues, and license before contributing, then begin with one verifiable problem.
 
