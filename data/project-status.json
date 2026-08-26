@@ -1,64 +1,64 @@
 {
-  "checked_at": "2026-08-23T08:21:30.328284Z",
+  "checked_at": "2026-08-26T12:42:47.607745Z",
   "projects": [
     {
-      "repository": "powerycy/BossHunter",
-      "html_url": "https://github.com/powerycy/BossHunter",
+      "repository": "shengjidaguai-china/BossHunter",
+      "html_url": "https://github.com/shengjidaguai-china/BossHunter",
       "state": "公开",
       "default_branch": "main",
       "configured_default_branch": "main",
-      "pushed_at": "2026-08-23T07:11:42Z",
-      "updated_at": "2026-08-23T07:18:37Z",
+      "pushed_at": "2026-08-25T11:10:16Z",
+      "updated_at": "2026-08-26T12:41:04Z",
       "license": "自定义／未识别"
     },
     {
-      "repository": "powerycy/personal-homepage-skill",
-      "html_url": "https://github.com/powerycy/personal-homepage-skill",
+      "repository": "shengjidaguai-china/personal-homepage-skill",
+      "html_url": "https://github.com/shengjidaguai-china/personal-homepage-skill",
       "state": "公开",
       "default_branch": "main",
       "configured_default_branch": "main",
       "pushed_at": "2026-08-17T07:59:03Z",
-      "updated_at": "2026-08-23T03:19:01Z",
+      "updated_at": "2026-08-26T12:40:54Z",
       "license": "自定义／未识别"
     },
     {
-      "repository": "powerycy/goutoujunshi",
-      "html_url": "https://github.com/powerycy/goutoujunshi",
+      "repository": "shengjidaguai-china/goutoujunshi",
+      "html_url": "https://github.com/shengjidaguai-china/goutoujunshi",
       "state": "公开",
       "default_branch": "main",
       "configured_default_branch": "main",
-      "pushed_at": "2026-08-17T07:00:07Z",
-      "updated_at": "2026-08-23T08:20:31Z",
+      "pushed_at": "2026-08-25T10:58:00Z",
+      "updated_at": "2026-08-26T12:41:35Z",
       "license": "MIT"
     },
     {
-      "repository": "powerycy/qiangshou-skill",
-      "html_url": "https://github.com/powerycy/qiangshou-skill",
+      "repository": "shengjidaguai-china/qiangshou-skill",
+      "html_url": "https://github.com/shengjidaguai-china/qiangshou-skill",
       "state": "公开",
       "default_branch": "main",
       "configured_default_branch": "main",
       "pushed_at": "2026-08-13T10:54:58Z",
-      "updated_at": "2026-08-14T12:05:20Z",
+      "updated_at": "2026-08-26T12:40:50Z",
       "license": "自定义／未识别"
     },
     {
-      "repository": "powerycy/multi-model-review",
-      "html_url": "https://github.com/powerycy/multi-model-review",
+      "repository": "shengjidaguai-china/multi-model-review",
+      "html_url": "https://github.com/shengjidaguai-china/multi-model-review",
       "state": "公开",
       "default_branch": "main",
       "configured_default_branch": "main",
       "pushed_at": "2026-08-13T10:54:52Z",
-      "updated_at": "2026-08-19T14:47:30Z",
+      "updated_at": "2026-08-26T12:40:50Z",
       "license": "自定义／未识别"
     },
     {
-      "repository": "powerycy/multi-style-image-generator",
-      "html_url": "https://github.com/powerycy/multi-style-image-generator",
+      "repository": "shengjidaguai-china/multi-style-image-generator",
+      "html_url": "https://github.com/shengjidaguai-china/multi-style-image-generator",
       "state": "公开",
       "default_branch": "main",
       "configured_default_branch": "main",
       "pushed_at": "2026-08-06T07:55:25Z",
-      "updated_at": "2026-08-18T06:18:42Z",
+      "updated_at": "2026-08-26T12:40:52Z",
       "license": "自定义／未识别"
     }
   ]
