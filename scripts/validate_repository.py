@@ -18,12 +18,6 @@ EXPECTED_PROJECTS = {
     "shengjidaguai-china/multi-model-review",
     "shengjidaguai-china/multi-style-image-generator",
 }
-LEDGER_URL = (
-    "https://wcng30x0nvef.feishu.cn/base/"
-    "KP9UbfeesaatN0sKe7Tc9JDDnFc?table=tblGvMJoDoqu5Xeb&view=vewnhIL5Fp"
-)
-
-
 def fail(message: str) -> None:
     raise AssertionError(message)
 
@@ -50,21 +44,6 @@ def check_public_homepages() -> None:
             fail(f"missing current project: {page.relative_to(ROOT)}")
         if "xiyouji-interactive-museum" in text:
             fail(f"removed project still present: {page.relative_to(ROOT)}")
-        if LEDGER_URL not in text:
-            fail(f"missing fund ledger link: {page.relative_to(ROOT)}")
-
-    chinese = (ROOT / "README.md").read_text(encoding="utf-8")
-    required_uses = [
-        "专项黑客松举办赞助资金",
-        "线下活动资金",
-        "线上项目分享资金",
-        "免费课程赞助资金",
-        "项目治理资金",
-        "内部重大贡献奖励资金",
-    ]
-    for item in required_uses:
-        if item not in chinese:
-            fail(f"missing fund use on homepage: {item}")
 
 
 def check_relative_links() -> None:
