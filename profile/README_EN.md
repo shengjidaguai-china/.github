@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-08-26 -->
+<!-- README_SYNC: source=working-tree; updated=2026-08-27 -->
 
 <p align="center">
   <a href="./README.md">简体中文</a> · English
@@ -7,7 +7,11 @@
 <h1 align="center">Level Up Open Source Community</h1>
 
 <p align="center">
-  Learn, build together, and create public work through real open-source projects. Beginners in development, design, product, and AI are all welcome.
+  An AI-powered open-source co-building community for everyday people and non-technical professionals.
+</p>
+
+<p align="center">
+  Use AI to turn your ideas, experience, and real needs into tutorials, tools, and open-source projects.
 </p>
 
 <p align="center">
@@ -20,59 +24,58 @@
 
 <p align="center">
   <a href="https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd">Community library</a> ·
+  <a href="#-how-to-participate">How to participate</a> ·
   <a href="#-current-activities">Current activities</a> ·
   <a href="#-first-projects-open-for-co-building">Open projects</a> ·
-  <a href="#join-and-build-with-us">Join the community</a>
+  <a href="#-join-the-community">Join the community</a>
 </p>
 
-## 🧭 Start here
+## 🧭 How to participate
 
-| I want to… | Start here |
-| --- | --- |
-| Find beginner-friendly tutorials and resources | 📚 [Open the community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) |
-| Join guided study or help create a tutorial | 🔥 [See current activities](#-current-activities) |
-| Contribute to a real open-source project | 🛠️ [Choose a co-building project](#-first-projects-open-for-co-building) |
-| Submit code, design, product, or content work | 🤝 [Read the contribution guide](../CONTRIBUTING.md) |
+You can start in the way that suits you best:
 
-## 📚 Community library
+1. **Learn with beginner tutorials**
 
-[Open the Shengji Daguai community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) for learning resources, beginner tutorials, and projects open for contribution.
+   Explore beginner-friendly resources, join guided learning, and learn how to use AI to complete your first project.
+
+2. **Contribute to open-source projects**
+
+   Choose a community project and contribute through code, product ideas, design, testing, documentation, or content.
+
+3. **Become a project maintainer**
+
+   Stay involved in a project, handle issues, review contributions, improve its content, and help keep it moving.
+
+4. **Start your own project**
+
+   Submit an idea or an existing project. After review, it may become one of the community's open co-building projects.
+
+5. **Help build the community**
+
+   Co-create beginner tutorials, welcome newcomers, organize activities, promote projects, or provide other support.
+
+📚 [Open the community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) · 🤝 [Read the contribution guide](../CONTRIBUTING.md)
 
 ## 🔥 Current activities
 
 ### Guided learning for beginners
 
-1. **Beginner tutorial co-creation:** applications close on **August 29, 2026**.
-2. **Guided study group:** in preparation.
+- **Beginner tutorial co-creation:** applications close on **August 29, 2026**.
+- **Guided study group:** in preparation.
 
 Collected beginner tutorials: [view the tutorial list](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf)
 
 ### Open-source co-building
 
-Choose a project from the [community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd), read its README and contribution notes, then start with one verifiable problem and submit a pull request.
+Choose a project from the [community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) and start with one small task.
+
+You do not need to know how to code. Product suggestions, interface design, testing feedback, tutorial content, and project promotion are all valuable community contributions.
 
 ### BossHunter maintainer recruitment
 
-Individuals and teams may apply. Send your résumé to **247133278@qq.com** and describe the project-maintenance capabilities you or your team can bring.
+Individuals and teams may apply.
 
-## What you can gain
-
-- **Learning and growth:** learn with people from different disciplines through real projects.
-- **Real project experience:** participate from idea to delivery and build practical experience.
-- **Public work and a stronger portfolio:** accepted contributions can receive project credit and become publicly verifiable GitHub work.
-- **Free course co-creation:** help design and produce free community courses with appropriate credit.
-- **Project exposure:** strong member projects may be demonstrated, recommended, or featured by the community organizer.
-- **New connections:** meet developers, designers, product builders, AI creators, and practitioners from other fields.
-- **More possibilities:** find collaborators for projects, competitions, work, startups, or commercial opportunities.
-
-## What the community asks from you
-
-- Share what you know, including lessons from mistakes.
-- Help build projects, courses, and community resources.
-- Contribute through code, design, product work, testing, or content.
-- Help other members within your capacity.
-- Respect original work, contributors, and each project's license.
-- Keep creating and learning, and help others grow with you.
+Send your résumé and a short description of your experience to [247133278@qq.com](mailto:247133278@qq.com).
 
 ## 🛠️ First projects open for co-building
 
@@ -91,16 +94,11 @@ Individuals and teams may apply. Send your résumé to **247133278@qq.com** and 
   </tr>
 </table>
 
-The [community project registry](../COMMUNITY_PROJECTS.md) is the source of truth for scope, contribution paths, and licensing. See the [public status page](../PROJECT_STATUS.md) for current project status.
+[View the complete list of community projects](../COMMUNITY_PROJECTS.md)
 
-## Join and build with us
+## 👋 Join the community
 
-Current community-wide initiatives include:
-
-- co-creating a free AI course series;
-- livestreamed Vibecoding project sharing;
-- organizing hackathons;
-- maintaining community projects.
+Everyone interested in using AI to create is welcome to join our guided learning, tutorial co-creation, and open-source projects.
 
 <p align="center">
   <img src="../assets/wechat-group-2026-08-30.jpg" width="420" alt="WeChat QR code for the community, valid through 2026-08-30">
@@ -108,36 +106,6 @@ Current community-wide initiatives include:
 
 The current QR code is valid through **August 30, 2026**. If it has expired, contact the administrator:
 
-- Email: 247133278@qq.com
+- Email: [247133278@qq.com](mailto:247133278@qq.com)
 - WeChat: loonges
 - QQ: 247133278
-
-See [support and contact](../SUPPORT.md) for details.
-
-## Transparent community fund
-
-[View the Level Up Open Source Community fund ledger](https://wcng30x0nvef.feishu.cn/base/KP9UbfeesaatN0sKe7Tc9JDDnFc?table=tblGvMJoDoqu5Xeb&view=vewnhIL5Fp)
-
-The ledger publishes sponsorship amounts, sponsor rankings, income, spending, balances, fund uses, and update dates. Sponsors may appear by legal name, nickname, or anonymously.
-
-Community funds are primarily used to expand the community's reach through:
-
-- dedicated hackathon sponsorships;
-- in-person community events;
-- online project-sharing sessions;
-- free course sponsorships;
-- project governance;
-- rewards for major internal contributions;
-- other community-building work that advances openness, creation, collaboration, and growth.
-
-Project status is checked monthly, including default branches, last-push dates, and detected licenses.
-
-See the [sponsorship policy](../SPONSORS.md) and [governance rules](../GOVERNANCE.md).
-
-## One last thought
-
-Do not be afraid of open source or sharing, and do not hide your work only because someone may learn from or imitate it.
-
-AI keeps reducing the cost of obtaining knowledge. What increasingly sets people apart is their judgment, creativity, influence, and ability to turn ideas into real work.
-
-Welcome to the Level Up Open Source Community. Let us learn, create, build, and grow together.
