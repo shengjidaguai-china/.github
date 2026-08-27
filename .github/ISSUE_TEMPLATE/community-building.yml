@@ -1,0 +1,42 @@
+name: 社区建设提议
+description: 提议课程、新人支持、活动、网站、推广合作或物资支持
+title: "[社区建设] "
+labels:
+  - community:building
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: 参与方向
+      options:
+        - 课程与教程
+        - 新人支持
+        - 活动组织
+        - 网站与资料
+        - 推广与合作
+        - 物资支持
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 想做什么
+      description: 说明目标、交付结果和它解决的实际需要
+    validations:
+      required: true
+  - type: textarea
+    id: timing
+    attributes:
+      label: 时间与协作
+      description: 说明预计完成时间、自己可以负责的部分和需要的帮助
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 确认
+      options:
+        - label: 我会在开始前确认范围、公开方式和隐私边界
+          required: true
+        - label: 我会提供可以公开核验的完成结果
+          required: true

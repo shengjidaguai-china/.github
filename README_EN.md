@@ -32,29 +32,13 @@
 
 ## 🧭 How to participate
 
-You can start in the way that suits you best:
-
-1. **Learn with beginner tutorials**
-
-   Explore beginner-friendly resources, join guided learning, and learn how to use AI to complete your first project.
-
-2. **Contribute to open-source projects**
-
-   Choose a community project and contribute through code, product ideas, design, testing, documentation, or content.
-
-3. **Become a project maintainer**
-
-   Stay involved in a project, handle issues, review contributions, improve its content, and help keep it moving.
-
-4. **Start your own project**
-
-   Submit an idea or an existing project. After review, it may become one of the community's open co-building projects.
-
-5. **Help build the community**
-
-   Co-create beginner tutorials, welcome newcomers, organize activities, promote projects, or provide other support.
-
-📚 [Open the community library](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd) · 🤝 [Read the contribution guide](./CONTRIBUTING.md)
+| Path | What you can do | Start here |
+| --- | --- | --- |
+| **Learn with beginner tutorials** | Spend seven days learning how to use AI to complete your first project | [Start the current 7-day beginner tutorial](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf) |
+| **Contribute to open-source projects** | Start with one small task and contribute through code, product, design, testing, documentation, or content | [Choose a project and read the contribution rules](./CONTRIBUTING.md) |
+| **Become a project maintainer** | Maintain a project, handle issues, review pull requests, improve content, and keep work moving | [Read the requirements and apply](./MAINTAINERS.md) |
+| **Start your own project** | Submit a public repository with a README, maintainer, license, and beginner-friendly task | [Read the intake rules](./COMMUNITY_PROJECTS.md#后续项目如何收录) · [Apply](https://github.com/shengjidaguai-china/.github/issues/new?template=project-intake.yml) |
+| **Help build the community** | Co-create courses, welcome newcomers, organize activities, improve the website and resources, or provide outreach and material support | [Read the community-building guide](./COMMUNITY_BUILDING.md) |
 
 ## 🔥 Current activities
 
@@ -63,7 +47,7 @@ You can start in the way that suits you best:
 - **Beginner tutorial co-creation:** applications close on **August 29, 2026**.
 - **Guided study group:** in preparation.
 
-Collected beginner tutorials: [view the tutorial list](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf)
+Current course: [7-day beginner tutorial](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf)
 
 ### Open-source co-building
 
@@ -75,7 +59,7 @@ You do not need to know how to code. Product suggestions, interface design, test
 
 Individuals and teams may apply.
 
-Send your résumé and a short description of your experience to [247133278@qq.com](mailto:247133278@qq.com).
+[Read the maintainer requirements and apply](./MAINTAINERS.md). You may also send a résumé and relevant experience to [247133278@qq.com](mailto:247133278@qq.com).
 
 ## 🛠️ First projects open for co-building
 
