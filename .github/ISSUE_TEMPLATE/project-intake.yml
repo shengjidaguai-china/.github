@@ -17,6 +17,13 @@ body:
       label: 项目解决什么问题
     validations:
       required: true
+  - type: textarea
+    id: differentiation
+    attributes:
+      label: 与社区同类项目的差异
+      description: 如果已有同类项目，请说明目标人群、解决问题、实现方式或交付成果上的差异；如果没有，请填写“暂无同类项目”
+    validations:
+      required: true
   - type: input
     id: license
     attributes:
