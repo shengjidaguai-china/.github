@@ -1,0 +1,45 @@
+name: 项目维护者申请
+description: 申请参与升级打怪开源社区项目的持续维护
+title: "[维护者申请] "
+labels:
+  - maintainer:application
+body:
+  - type: input
+    id: project
+    attributes:
+      label: 申请维护的项目
+      description: 填写项目名称和仓库地址
+    validations:
+      required: true
+  - type: input
+    id: account
+    attributes:
+      label: GitHub 账号
+      placeholder: "@username"
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: 相关贡献或经历
+      description: 提供 PR、Issue、作品或其他可以公开核验的经历
+    validations:
+      required: true
+  - type: textarea
+    id: plan
+    attributes:
+      label: 维护计划
+      description: 说明准备负责的工作、可投入时间和近期计划
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: 确认
+      options:
+        - label: 我已阅读维护者要求和社区行为准则
+          required: true
+        - label: 我会遵守项目许可证、安全边界和最小权限原则
+          required: true
+        - label: 无法继续维护时，我会及时说明并协助交接
+          required: true

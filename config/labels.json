@@ -3,5 +3,15 @@
     "name": "project:intake",
     "color": "0e8a16",
     "description": "新项目收录申请"
+  },
+  {
+    "name": "maintainer:application",
+    "color": "1d76db",
+    "description": "项目维护者申请"
+  },
+  {
+    "name": "community:building",
+    "color": "a2eeef",
+    "description": "课程、活动、网站、推广或物资等社区建设提议"
   }
 ]
