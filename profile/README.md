@@ -4,18 +4,18 @@
   简体中文 · <a href="./README_EN.md">English</a>
 </p>
 
-<h1 align="center">升级打怪开源社区</h1>
+<h1 align="center"><strong>升级打怪开源社区</strong></h1>
 
 <p align="center">
-  面向普通人和非技术从业者的 AI 开源共建社区。
+  <strong>面向普通人和非技术从业者的 AI 开源共建社区。</strong>
 </p>
 
 <p align="center">
-  借助 AI，把自己的想法、经验和真实需求做成教程、工具和开源项目。
+  <strong>借助 AI，把自己的想法、经验和真实需求做成教程、工具和开源项目。</strong>
 </p>
 
 <p align="center">
-  开放 · 创造 · 共建 · 成长
+  <strong>开放 · 创造 · 共建 · 成长</strong>
 </p>
 
 <p align="center">
