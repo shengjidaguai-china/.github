@@ -40,7 +40,7 @@
 | **发起自己的项目** | 项目可以迁入社区组织共同维护，也可以保留在原账号，以社区合作项目方式收录 | [查看收录与迁移规则](./COMMUNITY_PROJECTS.md#项目收录方式) · [提交申请](https://github.com/shengjidaguai-china/.github/issues/new?template=project-intake.yml) |
 | **参与社区建设** | 共创课程、帮助新人、组织活动、建设网站与资料，或提供推广和物资支持 | [查看社区建设细则](./COMMUNITY_BUILDING.md) |
 
-👥 持续参与后，可以受邀成为 GitHub 组织成员。查看[组织成员加入与退出规则](./MEMBERSHIP.md)，了解成员身份、项目权限、公开成员和不活跃退出机制。
+👥 持续参与后，可以受邀成为升级打怪开源社区正式成员。查看[社区正式成员加入与退出规则](./MEMBERSHIP.md)，了解成员身份、项目权限、公开成员和不活跃退出机制。
 
 ## 🔥 近期活动
 
