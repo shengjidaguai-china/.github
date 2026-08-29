@@ -85,10 +85,10 @@ Individuals and teams may apply.
 Everyone interested in using AI to create is welcome to join our guided learning, tutorial co-creation, and open-source projects.
 
 <p align="center">
-  <img src="../assets/wechat-group-2026-08-30.jpg" width="420" alt="WeChat QR code for the community, valid through 2026-08-30">
+  <img src="../assets/wechat-group-2026-09-05.jpg" width="420" alt="WeChat QR code for the community, valid through 2026-09-05">
 </p>
 
-The current QR code is valid through **August 30, 2026**. If it has expired, contact the administrator:
+The current QR code is valid through **September 5, 2026**. If it has expired, contact the administrator:
 
 - Email: [247133278@qq.com](mailto:247133278@qq.com)
 - WeChat: loonges
