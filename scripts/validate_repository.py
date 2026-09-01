@@ -14,6 +14,7 @@ EXPECTED_PROJECTS = {
     "shengjidaguai-china/BossHunter",
     "shengjidaguai-china/personal-homepage-skill",
     "shengjidaguai-china/goutoujunshi",
+    "shengjidaguai-china/xiaoguan",
     "shengjidaguai-china/qiangshou-skill",
     "shengjidaguai-china/multi-model-review",
     "shengjidaguai-china/multi-style-image-generator",
@@ -42,6 +43,8 @@ def check_public_homepages() -> None:
             fail(f"missing README sync marker: {page.relative_to(ROOT)}")
         if "multi-style-image-generator" not in text:
             fail(f"missing current project: {page.relative_to(ROOT)}")
+        if "shengjidaguai-china/xiaoguan" not in text:
+            fail(f"missing Xiaoguan project: {page.relative_to(ROOT)}")
         if "xiyouji-interactive-museum" in text:
             fail(f"removed project still present: {page.relative_to(ROOT)}")
 
