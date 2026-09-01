@@ -17,6 +17,10 @@
       "default_branch": "main"
     },
     {
+      "repository": "shengjidaguai-china/xiaoguan",
+      "default_branch": "main"
+    },
+    {
       "repository": "shengjidaguai-china/qiangshou-skill",
       "default_branch": "main"
     },

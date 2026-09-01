@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-08-28 -->
+<!-- README_SYNC: source=working-tree; updated=2026-09-01 -->
 
 <p align="center">
   简体中文 · <a href="./README_EN.md">English</a>
@@ -77,6 +77,10 @@
   <tr>
     <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-model-review"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-model-review.svg" alt="multi-model-review 项目卡片"></a></td>
     <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-style-image-generator"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-style-image-generator.svg" alt="multi-style-image-generator 项目卡片"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/xiaoguan"><img src="https://gh-card.dev/repos/shengjidaguai-china/xiaoguan.svg" alt="销冠项目卡片"></a></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
