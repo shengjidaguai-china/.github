@@ -4,7 +4,7 @@
 
 | 项目 | 定位 | 维护者 | 任期 | 状态 | 默认分支 | 当前许可证口径 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | AI 求职 Agent 与自动化流程 |  |  | [招募中](./README.md#bosshunter-项目维护者招募) | `main` | 自定义非商业许可证；商用需事先书面授权 |
+| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | AI 求职 Agent 与自动化流程 |  |  | [招募中](./README.md#bosshunter-项目维护者招募) | `main` | 源码公开（source-available）；PolyForm Noncommercial License 1.0.0（非商业许可，商用需另行书面授权） |
 | [shengjidaguai-china/personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | 个人主页与 HTML PPT 生成 Skill |  |  |  | `main` | 自定义非商业许可证；商用需事先书面授权 |
 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | AI 恋爱军师与关系支持 Skill |  |  |  | `main` | MIT License |
 | [shengjidaguai-china/xiaoguan](https://github.com/shengjidaguai-china/xiaoguan) | 面向个人与 B 端销售的本地客户军师、成交教练与混合 RAG Skill | [@powerycy](https://github.com/powerycy) |  | 共建中 | `main` | PolyForm Noncommercial License 1.0.0 |

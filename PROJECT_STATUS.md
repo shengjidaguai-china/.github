@@ -4,11 +4,11 @@
 
 本页面每月核对一次已收录仓库的公开状态、默认分支、最后推送时间和 GitHub 检测到的许可证。贡献署名和贡献者页面由各项目独立维护。
 
-最近检查：`2026-09-01T08:28:53.712868Z`
+最近检查：`2026-09-01T12:22:14.759520Z`
 
 | 项目 | 状态 | 默认分支 | 最后推送 | GitHub 许可证识别 |
 | --- | --- | --- | --- | --- |
-| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | 公开 | `main` | 2026-09-01T02:54:04Z | 未检测到 |
+| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | 公开 | `main` | 2026-09-01T12:21:15Z | 自定义／未识别 |
 | [shengjidaguai-china/personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | 公开 | `main` | 2026-08-26T15:44:18Z | 自定义／未识别 |
 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 公开 | `main` | 2026-08-27T11:19:05Z | MIT |
 | [shengjidaguai-china/xiaoguan](https://github.com/shengjidaguai-china/xiaoguan) | 公开 | `main` | 2026-09-01T08:27:09Z | 自定义／未识别 |
