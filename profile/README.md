@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-09-01 -->
+<!-- README_SYNC: source=working-tree; updated=2026-09-02 -->
 
 <p align="center">
   简体中文 · <a href="./README_EN.md">English</a>
@@ -44,24 +44,21 @@
 
 ## 🔥 近期活动
 
-### 新手督促共学
+### 社区项目收录中
 
-- **新手教程共创招募**：截止至 **2026 年 8 月 29 日**
-- **督促共学群活动**：筹备中
+有自己的开源项目？欢迎申请加入升级打怪开源社区，与社区伙伴一起持续共建。
 
-本期教程：[7 天新手教程](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf)
+[提交社区项目收录申请](https://github.com/shengjidaguai-china/.github/issues/new?template=project-intake.yml)
+
+### 新手线上督学活动
+
+跟着 7 天新手教程边学边做，在督学陪伴下完成自己的第一个 AI 项目。
+
+[查看活动详情](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf)
 
 ### 开源项目共建
 
-从[社区资料库](https://wcng30x0nvef.feishu.cn/wiki/M3DCwculsiyT5Tkc5YFcxYkunAd)中选择感兴趣的项目，从一个小任务开始参与共建。
-
-不会写代码也可以参加。产品建议、界面设计、测试反馈、教程内容和项目推广都属于社区贡献。
-
-### BossHunter 维护者招募
-
-个人或团队均可申请。
-
-请先[查看维护者要求并提交申请](../MAINTAINERS.md)。如需补充简历和相关经历，可发送至：**[247133278@qq.com](mailto:247133278@qq.com)**
+从[社区项目清单](../COMMUNITY_PROJECTS.md)中选择感兴趣的项目，并提交 PR 参与共建。
 
 ## 🛠️ 首批开放共建项目
 
@@ -75,12 +72,8 @@
     <td width="50%"><a href="https://github.com/shengjidaguai-china/qiangshou-skill"><img src="https://gh-card.dev/repos/shengjidaguai-china/qiangshou-skill.svg" alt="qiangshou-skill 项目卡片"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-model-review"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-model-review.svg" alt="multi-model-review 项目卡片"></a></td>
     <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-style-image-generator"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-style-image-generator.svg" alt="multi-style-image-generator 项目卡片"></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/shengjidaguai-china/xiaoguan"><img src="https://gh-card.dev/repos/shengjidaguai-china/xiaoguan.svg" alt="销冠项目卡片"></a></td>
-    <td width="50%"></td>
   </tr>
 </table>
 
