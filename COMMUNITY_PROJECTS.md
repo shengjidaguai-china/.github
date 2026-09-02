@@ -1,16 +1,4 @@
-# 当前共建项目
-
-本文件是社群收录项目的范围清单。只有列入 [`config/community.json`](./config/community.json) 的仓库才会被每月任务核对状态；未来收录或移除项目必须通过公开 PR 修改本清单与配置。
-
-| 项目 | 定位 | 维护者 | 任期 | 状态 | 默认分支 | 当前许可证口径 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | AI 求职 Agent 与自动化流程 |  |  | [招募中](./README.md#bosshunter-项目维护者招募) | `main` | 源码公开（source-available）；PolyForm Noncommercial License 1.0.0（非商业许可，商用需另行书面授权） |
-| [shengjidaguai-china/personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | 个人主页与 HTML PPT 生成 Skill |  |  |  | `main` | 自定义非商业许可证；商用需事先书面授权 |
-| [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | AI 恋爱军师与关系支持 Skill |  |  |  | `main` | MIT License |
-| [shengjidaguai-china/xiaoguan](https://github.com/shengjidaguai-china/xiaoguan) | 面向个人与 B 端销售的本地客户军师、成交教练与混合 RAG Skill | [@powerycy](https://github.com/powerycy) |  | 共建中 | `main` | PolyForm Noncommercial License 1.0.0 |
-| [shengjidaguai-china/qiangshou-skill](https://github.com/shengjidaguai-china/qiangshou-skill) | 事实核验与技术内容写作 Skill |  |  |  | `main` | PolyForm Noncommercial License 1.0.0 |
-| [shengjidaguai-china/multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | 多模型评审与裁判投票 Skill |  |  |  | `main` | PolyForm Noncommercial License 1.0.0 |
-| [shengjidaguai-china/multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 Skill |  |  |  | `main` | PolyForm Noncommercial License 1.0.0 |
+# 社区项目收录与治理
 
 ## 商业化说明
 
@@ -34,7 +22,7 @@
 项目申请应提供：
 
 1. 可公开访问的 GitHub 仓库；
-2. 清楚的 README、维护者与问题反馈入口；
+2. 清楚的 README、项目负责人与问题反馈入口；
 3. 明确的许可证和第三方素材边界；
 4. 至少一个可以让新成员开始参与的任务；
 5. 同意遵守社区行为准则、项目维护与公开更正规则；
@@ -46,11 +34,25 @@
 
 | 状态 | 说明 |
 | --- | --- |
-| **共建中** | 项目正在推进，维护者能够响应问题，并欢迎新成员参与。 |
+| **共建中** | 项目正在推进，项目负责人能够响应问题，并欢迎新成员参与。 |
 | **已完成** | 项目已经达到预定目标，成果仍可正常使用或学习，可继续进行必要维护。 |
-| **暂停维护** | 项目暂时没有进展，或维护者暂时无法持续投入；恢复维护后可以重新调整为“共建中”。 |
+| **暂停维护** | 项目暂时没有进展，或项目负责人暂时无法持续投入；恢复维护后可以重新调整为“共建中”。 |
 | **已归档** | 项目长期无人维护、无法继续使用，或存在无法解决的版权、安全等问题；保留历史记录，但不再作为开放共建项目推荐。 |
 
-社区每三个月人工复核一次项目状态和首页展示位置。复核主要参考项目进展、维护者响应、成果可用性、新手参与入口和社区共建情况；仍然适合重点展示的项目可以继续保留，不强制轮换。每月状态任务继续用于核对仓库的公开状态、默认分支、更新时间和许可证等基础信息。
+社区每三个月人工复核一次项目状态和首页展示位置。复核主要参考项目进展、项目负责人响应、成果可用性、新手参与入口和社区共建情况；仍然适合重点展示的项目可以继续保留，不强制轮换。每月状态任务继续用于核对仓库的公开状态、默认分支、更新时间和许可证等基础信息。
 
-维护状态发生变化时，由项目维护者提出更新，或在定期复核时统一调整。贡献署名、贡献者文件和项目内鸣谢由各项目维护者自行管理。
+维护状态发生变化时，由项目负责人提出更新，或在定期复核时统一调整。贡献署名、贡献者文件和项目内鸣谢由各项目负责人自行管理。
+
+## 当前共建项目
+
+本表是社群收录项目的范围清单。只有列入 [`config/community.json`](./config/community.json) 的仓库才会被每月任务核对状态；未来收录或移除项目必须通过公开 PR 修改本清单与配置。
+
+| 项目 | 定位 | 项目负责人 | 任期 | 状态 | 默认分支 |
+| --- | --- | --- | --- | --- | --- |
+| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | AI 求职 Agent 与自动化流程 |  |  | [招募中](./README.md#bosshunter-项目维护者招募) | `main` |
+| [shengjidaguai-china/personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | 个人主页与 HTML PPT 生成 Skill |  |  |  | `main` |
+| [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | AI 恋爱军师与关系支持 Skill |  |  |  | `main` |
+| [shengjidaguai-china/xiaoguan](https://github.com/shengjidaguai-china/xiaoguan) | 面向个人与 B 端销售的本地客户军师、成交教练与混合 RAG Skill | [@powerycy](https://github.com/powerycy) |  | 共建中 | `main` |
+| [shengjidaguai-china/qiangshou-skill](https://github.com/shengjidaguai-china/qiangshou-skill) | 事实核验与技术内容写作 Skill |  |  |  | `main` |
+| [shengjidaguai-china/multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | 多模型评审与裁判投票 Skill |  |  |  | `main` |
+| [shengjidaguai-china/multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 Skill |  |  |  | `main` |
