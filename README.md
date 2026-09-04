@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-09-01 -->
+<!-- README_SYNC: source=working-tree; updated=2026-09-04 -->
 
 <p align="center">
   简体中文 · <a href="./README_EN.md">English</a>
@@ -91,10 +91,10 @@
 欢迎加入升级打怪开源社区，参加新手共学、教程共创和真实项目共建。
 
 <p align="center">
-  <img src="./assets/wechat-group-2026-09-05.jpg" width="420" alt="升级打怪开源社区微信群二维码，有效至 2026-09-05">
+  <img src="./assets/wechat-group-2026-09-11.jpg" width="420" alt="升级打怪开源社区 2 微信群二维码，有效至 2026-09-11">
 </p>
 
-当前二维码有效至 **2026 年 9 月 5 日**。二维码失效后，请联系管理员：
+当前二维码有效至 **2026 年 9 月 11 日**。二维码失效后，请联系管理员：
 
 - Email：[247133278@qq.com](mailto:247133278@qq.com)
 - WeChat：loonges
