@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-09-04 -->
+<!-- README_SYNC: source=working-tree; updated=2026-09-23 -->
 
 <p align="center">
   简体中文 · <a href="./README_EN.md">English</a>
@@ -72,15 +72,11 @@
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/shengjidaguai-china/goutoujunshi"><img src="https://gh-card.dev/repos/shengjidaguai-china/goutoujunshi.svg" alt="goutoujunshi 项目卡片"></a></td>
-    <td width="50%"><a href="https://github.com/shengjidaguai-china/qiangshou-skill"><img src="https://gh-card.dev/repos/shengjidaguai-china/qiangshou-skill.svg" alt="qiangshou-skill 项目卡片"></a></td>
+    <td width="50%"><a href="https://github.com/shengjidaguai-china/fitness-tracker"><img src="https://gh-card.dev/repos/shengjidaguai-china/fitness-tracker.svg" alt="fitness-tracker 项目卡片"></a><br><sub>健身训练记录与 AI 教练辅助 · PolyForm Noncommercial 1.0.0（非商业使用）</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-model-review"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-model-review.svg" alt="multi-model-review 项目卡片"></a></td>
     <td width="50%"><a href="https://github.com/shengjidaguai-china/multi-style-image-generator"><img src="https://gh-card.dev/repos/shengjidaguai-china/multi-style-image-generator.svg" alt="multi-style-image-generator 项目卡片"></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/shengjidaguai-china/xiaoguan"><img src="https://gh-card.dev/repos/shengjidaguai-china/xiaoguan.svg" alt="销冠项目卡片"></a></td>
-    <td width="50%"></td>
   </tr>
 </table>
 
