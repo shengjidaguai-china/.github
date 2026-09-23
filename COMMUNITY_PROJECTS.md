@@ -56,3 +56,20 @@
 | [shengjidaguai-china/qiangshou-skill](https://github.com/shengjidaguai-china/qiangshou-skill) | 事实核验与技术内容写作 Skill |  |  |  | `main` |
 | [shengjidaguai-china/multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | 多模型评审与裁判投票 Skill |  |  |  | `main` |
 | [shengjidaguai-china/multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 Skill |  |  |  | `main` |
+| [shengjidaguai-china/fitness-tracker](https://github.com/shengjidaguai-china/fitness-tracker) | 健身训练记录、周期计划与 AI 教练辅助 | [@yuppiez99999](https://github.com/yuppiez99999) |  | 共建中 | `master` |
+| [xin-yi33/RxyCode](https://github.com/xin-yi33/RxyCode) | 本地 AI 编程工作台，支持桌面端、终端、插件与专家团 | [@xin-yi33](https://github.com/xin-yi33) |  | 共建中 | `master` |
+| [xin-yi33/coding-agent-crew](https://github.com/xin-yi33/coding-agent-crew) | 用于开发和改进 coding agent 的工程流程与角色 Skill 包 | [@xin-yi33](https://github.com/xin-yi33) |  | 共建中 | `main` |
+| [xin-yi33/-novel-writer-skill](https://github.com/xin-yi33/-novel-writer-skill) | 小说细纲、章节创作、长篇记忆与草稿发布 Skill | [@xin-yi33](https://github.com/xin-yi33) |  | 共建中 | `main` |
+
+### 2026-09-23 收录记录与参与入口
+
+| 项目 | 收录方式 | 许可证 | 新成员参与入口 | 申请与维护确认 |
+| --- | --- | --- | --- | --- |
+| fitness-tracker | 已迁入社区，原作者继续负责 | [PolyForm Noncommercial 1.0.0](https://github.com/shengjidaguai-china/fitness-tracker/blob/master/LICENSE)，公开源码、非商业使用；商业使用需另行授权 | [补充入门级示例训练计划与说明](https://github.com/shengjidaguai-china/fitness-tracker/issues/12) | [申请 #29](https://github.com/shengjidaguai-china/.github/issues/29) |
+| RxyCode | 社区合作收录，保留作者仓库 | [MIT](https://github.com/xin-yi33/RxyCode/blob/master/LICENSE) | [插件与专家团入门任务](https://github.com/shengjidaguai-china/.github/issues/25) · [贡献指南](https://github.com/xin-yi33/RxyCode/blob/master/CONTRIBUTING.md) | [维护确认](https://github.com/shengjidaguai-china/.github/issues/25#issuecomment-5724967521) |
+| coding-agent-crew | 社区合作收录，保留作者仓库 | [MIT](https://github.com/xin-yi33/coding-agent-crew/blob/main/LICENSE) | [路径表样例、最小评测夹具与宿主安装任务](https://github.com/shengjidaguai-china/.github/issues/28) | [维护确认](https://github.com/shengjidaguai-china/.github/issues/28#issuecomment-5724968099) |
+| Novel Writer | 社区合作收录，保留作者仓库 | [MIT](https://github.com/xin-yi33/-novel-writer-skill/blob/main/LICENSE) | [宿主适配、草稿发布与章节样例任务](https://github.com/shengjidaguai-china/.github/issues/27) | [维护确认与安装记录](https://github.com/shengjidaguai-china/.github/issues/27#issuecomment-5724967831) |
+
+三个合作项目由同一位作者继续维护，作者确认的投入优先级为 RxyCode、coding-agent-crew、Novel Writer；不承诺固定周更，无法继续维护时会说明并协助交接。后续按社区季度复核规则检查维护情况。
+
+使用边界：fitness-tracker 保留原有非商业许可证，训练与 AI 建议仅供辅助参考；RxyCode 在本机运行，但使用云端模型时会发送提示词及进入上下文的代码片段、工具结果等；Novel Writer 的安装验证由作者在 Windows / Claude Code 环境完成，其他宿主仍待适配。收录不代表社区已完成全部功能或安全审计。

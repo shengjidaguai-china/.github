@@ -31,6 +31,22 @@
     {
       "repository": "shengjidaguai-china/multi-style-image-generator",
       "default_branch": "main"
+    },
+    {
+      "repository": "shengjidaguai-china/fitness-tracker",
+      "default_branch": "master"
+    },
+    {
+      "repository": "xin-yi33/RxyCode",
+      "default_branch": "master"
+    },
+    {
+      "repository": "xin-yi33/coding-agent-crew",
+      "default_branch": "main"
+    },
+    {
+      "repository": "xin-yi33/-novel-writer-skill",
+      "default_branch": "main"
     }
   ]
 }

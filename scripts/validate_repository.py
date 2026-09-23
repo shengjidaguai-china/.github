@@ -18,6 +18,10 @@ EXPECTED_PROJECTS = {
     "shengjidaguai-china/qiangshou-skill",
     "shengjidaguai-china/multi-model-review",
     "shengjidaguai-china/multi-style-image-generator",
+    "shengjidaguai-china/fitness-tracker",
+    "xin-yi33/RxyCode",
+    "xin-yi33/coding-agent-crew",
+    "xin-yi33/-novel-writer-skill",
 }
 def fail(message: str) -> None:
     raise AssertionError(message)
@@ -45,6 +49,8 @@ def check_public_homepages() -> None:
             fail(f"missing current project: {page.relative_to(ROOT)}")
         if "shengjidaguai-china/xiaoguan" not in text:
             fail(f"missing Xiaoguan project: {page.relative_to(ROOT)}")
+        if "shengjidaguai-china/fitness-tracker" not in text:
+            fail(f"missing fitness project: {page.relative_to(ROOT)}")
         if "xiyouji-interactive-museum" in text:
             fail(f"removed project still present: {page.relative_to(ROOT)}")
 
