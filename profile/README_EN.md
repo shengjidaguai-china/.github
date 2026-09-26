@@ -1,4 +1,4 @@
-<!-- README_SYNC: source=working-tree; updated=2026-09-23 -->
+<!-- README_SYNC: source=working-tree; updated=2026-09-26 -->
 
 <p align="center">
   <a href="./README.md">简体中文</a> · English
@@ -85,10 +85,10 @@ Individuals and teams may apply.
 Everyone interested in using AI to create is welcome to join our guided learning, tutorial co-creation, and open-source projects.
 
 <p align="center">
-  <img src="../assets/wechat-group-2026-09-27.jpg" width="420" alt="WeChat QR code for the community, valid through 2026-09-27">
+  <img src="../assets/wechat-group-2026-10-03.png" width="420" alt="WeChat QR code for community group 3, valid through 2026-10-03">
 </p>
 
-The current QR code is valid through **September 27, 2026**. If it has expired, contact the administrator:
+The current QR code is valid through **October 3, 2026**. If it has expired, contact the administrator:
 
 - Email: [247133278@qq.com](mailto:247133278@qq.com)
 - WeChat: loonges
