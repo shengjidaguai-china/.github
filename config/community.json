@@ -37,6 +37,10 @@
       "default_branch": "master"
     },
     {
+      "repository": "shengjidaguai-china/Financial_Modeling",
+      "default_branch": "main"
+    },
+    {
       "repository": "xin-yi33/RxyCode",
       "default_branch": "master"
     },

@@ -19,6 +19,7 @@ EXPECTED_PROJECTS = {
     "shengjidaguai-china/multi-model-review",
     "shengjidaguai-china/multi-style-image-generator",
     "shengjidaguai-china/fitness-tracker",
+    "shengjidaguai-china/Financial_Modeling",
     "xin-yi33/RxyCode",
     "xin-yi33/coding-agent-crew",
     "xin-yi33/-novel-writer-skill",
