@@ -57,6 +57,7 @@
 | [shengjidaguai-china/multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | 多模型评审与裁判投票 Skill |  |  |  | `main` |
 | [shengjidaguai-china/multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | 多风格图片生成与 360° 空间预览 Skill |  |  |  | `main` |
 | [shengjidaguai-china/fitness-tracker](https://github.com/shengjidaguai-china/fitness-tracker) | 健身训练记录、周期计划与 AI 教练辅助 | [@yuppiez99999](https://github.com/yuppiez99999) |  | 共建中 | `master` |
+| [shengjidaguai-china/Financial_Modeling](https://github.com/shengjidaguai-china/Financial_Modeling) | TrendCast Pro：金融建模与多周期方向预测研究 | [@yuppiez99999](https://github.com/yuppiez99999) |  | 共建中 | `main` |
 | [xin-yi33/RxyCode](https://github.com/xin-yi33/RxyCode) | 本地 AI 编程工作台，支持桌面端、终端、插件与专家团 | [@xin-yi33](https://github.com/xin-yi33) |  | 共建中 | `master` |
 | [xin-yi33/coding-agent-crew](https://github.com/xin-yi33/coding-agent-crew) | 用于开发和改进 coding agent 的工程流程与角色 Skill 包 | [@xin-yi33](https://github.com/xin-yi33) |  | 共建中 | `main` |
 | [xin-yi33/-novel-writer-skill](https://github.com/xin-yi33/-novel-writer-skill) | 小说细纲、章节创作、长篇记忆与草稿发布 Skill | [@xin-yi33](https://github.com/xin-yi33) |  | 共建中 | `main` |
@@ -73,3 +74,11 @@
 三个合作项目由同一位作者继续维护，作者确认的投入优先级为 RxyCode、coding-agent-crew、Novel Writer；不承诺固定周更，无法继续维护时会说明并协助交接。后续按社区季度复核规则检查维护情况。
 
 使用边界：fitness-tracker 保留原有非商业许可证，训练与 AI 建议仅供辅助参考；RxyCode 在本机运行，但使用云端模型时会发送提示词及进入上下文的代码片段、工具结果等；Novel Writer 的安装验证由作者在 Windows / Claude Code 环境完成，其他宿主仍待适配。收录不代表社区已完成全部功能或安全审计。
+
+### 2026-09-30 迁入记录与待办
+
+| 项目 | 收录方式 | 许可证 | 新成员参与入口 | 迁入与维护确认 |
+| --- | --- | --- | --- | --- |
+| Financial_Modeling（TrendCast Pro） | 已迁入社区，原作者继续负责并保留项目 Admin 权限 | [项目自定义非商业用途许可证](https://github.com/shengjidaguai-china/Financial_Modeling/blob/main/LICENSE)，仅供学习、交流、研究使用；商业使用需版权方书面许可 | 可认领的新手任务待作者补充，进展见[迁入 Issue #4](https://github.com/shengjidaguai-china/Financial_Modeling/issues/4) | [作者同意迁入](https://github.com/shengjidaguai-china/Financial_Modeling/issues/4#issuecomment-5902110542) · [迁移及权限核验](https://github.com/shengjidaguai-china/Financial_Modeling/issues/4#issuecomment-5902865370) |
+
+Financial_Modeling 保留原有作者署名与许可证，默认分支为 `main`；本次迁入所需的临时公开建仓权限已收回。项目输出仅供学习与研究参考，不构成投资建议。社区已记录实际迁入状态并纳入每月状态核对；新手任务仍待补齐，收录不代表社区已完成模型有效性或安全审计。
