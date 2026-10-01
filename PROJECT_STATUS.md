@@ -4,11 +4,11 @@
 
 本页面每月核对一次已收录仓库的公开状态、默认分支、最后推送时间和 GitHub 检测到的许可证。贡献署名和贡献者页面由各项目独立维护。
 
-最近检查：`2026-09-23T07:21:03.924457Z`
+最近检查：`2026-10-01T07:08:32.816996Z`
 
 | 项目 | 状态 | 默认分支 | 最后推送 | GitHub 许可证识别 |
 | --- | --- | --- | --- | --- |
-| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | 公开 | `main` | 2026-09-22T16:28:19Z | 自定义／未识别 |
+| [shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) | 公开 | `main` | 2026-09-30T06:09:36Z | 自定义／未识别 |
 | [shengjidaguai-china/personal-homepage-skill](https://github.com/shengjidaguai-china/personal-homepage-skill) | 公开 | `main` | 2026-09-17T06:38:33Z | 自定义／未识别 |
 | [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) | 公开 | `main` | 2026-09-20T12:23:53Z | MIT |
 | [shengjidaguai-china/xiaoguan](https://github.com/shengjidaguai-china/xiaoguan) | 公开 | `main` | 2026-09-01T08:27:09Z | 自定义／未识别 |
@@ -16,7 +16,8 @@
 | [shengjidaguai-china/multi-model-review](https://github.com/shengjidaguai-china/multi-model-review) | 公开 | `main` | 2026-08-26T15:44:25Z | 自定义／未识别 |
 | [shengjidaguai-china/multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | 公开 | `main` | 2026-09-07T13:41:28Z | 自定义／未识别 |
 | [shengjidaguai-china/fitness-tracker](https://github.com/shengjidaguai-china/fitness-tracker) | 公开 | `master` | 2026-09-16T09:36:17Z | 自定义／未识别 |
-| [xin-yi33/RxyCode](https://github.com/xin-yi33/RxyCode) | 公开 | `master` | 2026-09-18T04:00:47Z | MIT |
+| [shengjidaguai-china/Financial_Modeling](https://github.com/shengjidaguai-china/Financial_Modeling) | 公开 | `main` | 2026-09-30T04:08:11Z | 自定义／未识别 |
+| [xin-yi33/RxyCode](https://github.com/xin-yi33/RxyCode) | 公开 | `master` | 2026-09-24T14:24:11Z | MIT |
 | [xin-yi33/coding-agent-crew](https://github.com/xin-yi33/coding-agent-crew) | 公开 | `main` | 2026-09-01T11:30:22Z | MIT |
 | [xin-yi33/-novel-writer-skill](https://github.com/xin-yi33/-novel-writer-skill) | 公开 | `main` | 2026-09-18T04:00:46Z | MIT |
 
