@@ -34,7 +34,7 @@
 
 | 参与方式 | 可以做什么 | 开始入口 |
 | --- | --- | --- |
-| **学习新手教程** | 用 7 天了解如何借助 AI 完成自己的第一个项目 | [学习本期 7 天新手教程](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf) · [Codex 课程](https://my.feishu.cn/wiki/RqAawKLVdiN3xVkHnfxc5HcLn9e) |
+| **学习新手教程** | 用 7 天了解如何借助 AI 完成自己的第一个项目 | [7 天新手教程](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf) · [Codex 课程](https://my.feishu.cn/wiki/RqAawKLVdiN3xVkHnfxc5HcLn9e) |
 | **参与开源项目** | 从一个小任务开始，通过代码、产品、设计、测试、文档或内容参与共建 | [选择项目并查看参与规则](./CONTRIBUTING.md) |
 | **成为项目维护者** | 持续维护项目，处理 Issue、审核 PR、完善内容并推动更新 | [查看维护者要求并申请](./MAINTAINERS.md) |
 | **发起自己的项目** | 项目可以迁入升级打怪开源社区共同维护，也可以保留在原账号，以社区合作项目方式收录 | [查看收录与迁移规则](./COMMUNITY_PROJECTS.md#项目收录方式) · [提交申请](https://github.com/shengjidaguai-china/.github/issues/new?template=project-intake.yml) |
