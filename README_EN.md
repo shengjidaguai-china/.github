@@ -34,7 +34,7 @@
 
 | Path | What you can do | Start here |
 | --- | --- | --- |
-| **Learn with beginner tutorials** | Spend seven days learning how to use AI to complete your first project | [Start the current 7-day beginner tutorial](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf) |
+| **Learn with beginner tutorials** | Spend seven days learning how to use AI to complete your first project | [Start the current 7-day beginner tutorial](https://my.feishu.cn/wiki/XTgmwIPdeiGQ6okwdRpcuprOnUf) · [Codex course](https://my.feishu.cn/wiki/RqAawKLVdiN3xVkHnfxc5HcLn9e) |
 | **Contribute to open-source projects** | Start with one small task and contribute through code, product, design, testing, documentation, or content | [Choose a project and read the contribution rules](./CONTRIBUTING.md) |
 | **Become a project maintainer** | Maintain a project, handle issues, review pull requests, improve content, and keep work moving | [Read the requirements and apply](./MAINTAINERS.md) |
 | **Start your own project** | Submit a public repository with a README, maintainer, license, and beginner-friendly task | [Read the intake rules](./COMMUNITY_PROJECTS.md#后续项目如何收录) · [Apply](https://github.com/shengjidaguai-china/.github/issues/new?template=project-intake.yml) |
